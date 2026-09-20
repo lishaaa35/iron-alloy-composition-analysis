@@ -50,7 +50,7 @@ The dashboard includes:
 
 ## Dashboard Screenshot
 
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ## Project Files
 
